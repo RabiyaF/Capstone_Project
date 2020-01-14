@@ -1,6 +1,6 @@
-<img src="http://www.pngmart.com/files/3/Horizontal-Line-PNG-Photos.png" width="1000" height="20"> <b/>
+<img src="http://www.pngmart.com/files/3/Horizontal-Line-PNG-Photos.png" width="850" height="20"> <b/>
 <img src="Images/DukeofWellington.jpg" width="300" height="300">
-<img src="Images/Glasgow_logo_3.png" width="568" height="300"> <b/>
+<img src="Images/Glasgow_logo_3.png" width="560" height="300"> <b/>
 
 
 
