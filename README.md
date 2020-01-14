@@ -2,8 +2,6 @@
 <img src="Images/DukeofWellington.jpg" width="300" height="300">
 <img src="Images/Glasgow_logo_3.png" width="560" height="300"> <b/>
 
-
-
 # Capstone Project
 This Repository contains a data science project completed using data collected with the Foursquare API and several publically available data sets from the local city council and UK royal mail. This is an ongoing project. This is aims to provide data based insight to new businesses in Glasgow.  It aims to provide insight on the optimum venues within Glasgow that 
 * Are within 5 km of the city center 
