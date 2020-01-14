@@ -1,5 +1,5 @@
-<img src="Images/Glasgow.jpg" width="1000" height="300"><br/>
 <img src="Images/DukeofWellington.jpg" width="300" height="300">
+<img src="Images/Glasgow_logo_3.png" width="408" height="300"><br/>
 <img src="Images/Glasgow_logo_3.png" width="568" height="300"><br/>
 
 # Capstone Project
