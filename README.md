@@ -1,6 +1,5 @@
-<img src="http://www.pngmart.com/files/3/Horizontal-Line-PNG-Photos.png" width="850" height="20"> <b/>
-<img src="Images/DukeofWellington.jpg" width="300" height="300">
-<img src="Images/Glasgow_logo_3.png" width="560" height="300"> <b/>
+<img src="Images/Logo_1.png" width="1000" height="300"> <b/>
+
 
 # Capstone Project
 This Repository contains a data science project completed using data collected with the Foursquare API and several publically available data sets from the local city council and UK royal mail. This is an ongoing project. This is aims to provide data based insight to new businesses in Glasgow.  It aims to provide insight on the optimum venues within Glasgow that 
@@ -20,6 +19,7 @@ The Report: Coming Soon!
 The Presentation: Coming Soon!
 
 The Blog: Coming Soon!
+
 
 
 The follwing libraries were used to build the code
