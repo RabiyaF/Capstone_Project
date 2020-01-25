@@ -48,9 +48,9 @@ This project uses publicly available datasets and the FourSquareAPI to provide b
 
 [The Jupyter Notebook](https://github.com/RabiyaF/Coursera_Capstone/blob/master/Glasgow_Capstone.ipynb)
 
-**The Report:** Coming Soon!
+[The Report](https://github.com/RabiyaF/Coursera_Capstone/blob/master/Week%205/Final%20Report.pdf)
 
-**The Presentation:** Coming Soon!
+[The Presentation](https://github.com/RabiyaF/Coursera_Capstone/blob/master/Week%205/Presentation.pdf)
 
 The follwing libraries were used to build the code
 ```
