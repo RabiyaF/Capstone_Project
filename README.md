@@ -58,7 +58,7 @@ Pandas - For data frame import, manupilutaion and wrangling
 BeautifulSoup - For Webscraping
 Nominatim- from geopy.geocoders to obtain location coordinate data  
 folium- for plotting and visualizing geographical data
-Matplotlib- For population and demographic data visualization
+Matplotlib & Seaborn- For population and demographic data visualization
 FourSquarAPI- For obtaining venues information
 SciKit Learn- For Implementing K-means Algorithm
 NumPy- for multi-dimentional array and matrix data structures 
